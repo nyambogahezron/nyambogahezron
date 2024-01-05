@@ -3,7 +3,7 @@
 - I possess advanced proficiency in JavaScript, a versatile and powerful programming language. With a solid foundation in JavaScript, I have successfully built my skills around Node JS and React JS for the development of scalable web applications and implemented solid and secure backend applications. My expertise extends to PHP - Laravel Django, Next JS, Databases, and Networking allowing me to build robust APIs, handle complex data manipulations, and build secure applications. In addition to my technical proficiency, I am a collaborative team player who values open communication and thrives in environments that foster creativity. For the last four years, my experience has been developing backend servers.
 
 - Contact me at [hezronnyamboga@gmail.com]
-- My website [hezronnyamboga.vercel.app]
+- My website (https://nyambogahezron.vercel.app/)
 
 
 
