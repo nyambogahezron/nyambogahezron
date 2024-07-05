@@ -4,11 +4,7 @@
 - Experienced in Django 🐍, Express.js, databases(MongoDB, sql), PHP 🐘 (Laravel), and networking.
 - Skilled in building robust APIs and secure applications.
 - Collaborative team player valuing open communication 👥.
-📞 Contact me at hezronnyamboga6@gmail.com 
 🚀 Website: [nyambogahezron.vercel.app](https://nyambogahezron.vercel.app/)
-
-
-
 - 🔭 **Current Projects**: App Development 
 
 - 🌱 **Currently Learning**: ML & AI
@@ -49,13 +45,13 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?
 
 <h3>My GitHub contributions summary</h3>
 
-<p align="centre">
+<p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyambogahezron&layout=compact&hide_border=true&langs_count=10&theme=dark" alt="nyambogahezron" />
 </p>
 
 <br>
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=nyambogahezron&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark" alt="nyambogahezron" />
 </p>
 
