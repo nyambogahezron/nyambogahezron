@@ -56,7 +56,7 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?
 </p>
 
 <br>
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyambogahezron&theme=dark&hide_border=true" alt="nyambogahezron" />
 </p>
 
