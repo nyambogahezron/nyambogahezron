@@ -1,18 +1,18 @@
-- 👋 Hi, I’m Nyamboga Hezron
-- 👀 I'm a Software Engineer💻
-- With advanced proficiency in JavaScript, specializing in Express.js, Next.js, React.js and React Native ⚛️ for scalable web and mobile applications.
-- Experienced in Django 🐍, Express.js, databases(MongoDB, sql), PHP 🐘 (Laravel), and networking.
-- Skilled in building robust APIs and secure applications.
-- Collaborative team player valuing open communication 👥.
-🚀 Website: [nyambogahezron.vercel.app](https://nyambogahezron.vercel.app/)
-- 🔭 **Current Projects**: App Development 
+👋 Hi, I’m Nyamboga Hezron, a Software Engineer💻 with advanced proficiency in JavaScript, specializing in Express.js, Next.js, React.js, and React Native ⚛️ for scalable web and mobile applications. I also have experience in Django 🐍, PHP 🐘 (Laravel), and networking.
 
-- 🌱 **Currently Learning**: ML & AI
+🔭 Current Projects: I'm currently focused on app development projects.
 
-- 💬 **Ask Me About**: Crafting Digital Solutions
+🌱 Currently Learning: ML & AI to expand my skill set further.
 
-- 📫 **How to Reach Me**: hezronnyamboga6@gmail.com
+💬 Ask Me About: Crafting Digital Solutions, building robust APIs, and secure applications.
 
+🌐 Portfolio: Explore my portfolio and case studies on nyambogahezron.vercel.app.
+
+👥 Community Engagement: Actively contribute to open-source projects, participate in tech communities, and share knowledge through speaking engagements.
+
+🎨 Visual Appeal: I ensure visually appealing profiles with consistent formatting, incorporating icons and diagrams to enhance clarity and engagement.
+
+📫 Reach Me: Email me at hezronnyamboga6@gmail.com for collaborations.
 <br>
 
 <h3 align="centre">🌐 Socials:</h3>
