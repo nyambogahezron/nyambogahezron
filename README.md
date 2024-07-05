@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nyamboga Hezron
-- 👀 I'm a Software Engineeer 💻
+- 👀 I'm a Software Engineer💻
 - With advanced proficiency in JavaScript, specializing in Express.js, Next.js, React.js and React Native ⚛️ for scalable web and mobile applications.
 - Experienced in Django 🐍, Express.js, databases(MongoDB, sql), PHP 🐘 (Laravel), and networking.
 - Skilled in building robust APIs and secure applications.
