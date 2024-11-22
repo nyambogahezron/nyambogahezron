@@ -6,7 +6,7 @@ I'm aSoftware Engineer with expertise in building scalable and secure applicatio
 
 💬 Ask Me About Crafting Digital Solutions, building robust APIs, and secure applications.
 
-🌐 [Portfolio] (nyambogahezron.vercel.app): Explore my portfolio and case studies [here] (nyambogahezron.vercel.app)
+<a href="https://nyambogahezron.vercel.app">Portfolio</a>: Explore my portfolio and case studies <a href="https://nyambogahezron.vercel.app">here</a>
 
 👥 Community Engagement: Actively contribute to open-source projects, participate in tech communities, and share knowledge through speaking engagements.
 
