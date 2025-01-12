@@ -1,4 +1,4 @@
-I'm aSoftware Engineer with expertise in building scalable and secure applications across web and mobile platforms. I excel at designing and implementing robust APIs, managing complex data flows, and ensuring the security and efficiency of applications. My expertise spans system architecture, application performance optimization, and seamless database integrations. As a collaborative team player, I thrive in dynamic, creative environments that emphasize open communication and innovation.
+I'm a Software Engineer with expertise in building scalable and secure applications across web and mobile platforms. I excel at designing and implementing robust APIs, managing complex data flows, and ensuring the security and efficiency of applications. My expertise spans system architecture, application performance optimization, and seamless database integrations. As a collaborative team player, I thrive in dynamic, creative environments that emphasize open communication and innovation.
 
 🔭 Current Projects: I'm currently focused on app development projects for both IOS and Android.
 
