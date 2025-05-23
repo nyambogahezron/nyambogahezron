@@ -4,8 +4,6 @@ I'm a Software Engineer with expertise in building scalable and secure applicati
 
 🌱 Currently Learning: ML & AI to expand my skill set further.
 
-💬 Ask Me About Crafting Digital Solutions, building robust APIs, and secure applications.
-
 <a href="https://nyambogahezron.vercel.app">Portfolio</a>: Explore my portfolio and case studies <a href="https://nyambogahezron.vercel.app">here</a>
 
 👥 Community Engagement: Actively contribute to open-source projects, participate in tech communities, and share knowledge through speaking engagements.
@@ -49,13 +47,7 @@ I'm a Software Engineer with expertise in building scalable and secure applicati
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Tableau Desktop](https://img.shields.io/badge/-Tableau%20Desktop-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![IBM Watson Studio](https://img.shields.io/badge/-IBM%20Watson%20Studio-052FAD?style=for-the-badge&logo=IBM-Watson&logoColor=white)
 
 <br />
 
