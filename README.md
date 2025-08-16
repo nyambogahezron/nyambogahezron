@@ -2,9 +2,7 @@ I'm a Software Engineer with expertise in building scalable and secure applicati
 
 📫 Reach Me: Email me at `hezronnyamboga6@gmail.com` for collaborations.
 <br />
-
 <h3 align="centre">🌐 Socials:</h3>
-
 [![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hezronnyamboga)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyambogahezron/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23FE7A16.svg?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23325313/hezron-nyamboga)
