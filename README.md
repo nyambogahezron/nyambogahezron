@@ -13,19 +13,6 @@ I'm a Software Engineer with expertise in building scalable and secure applicati
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/nyambogahezron)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCnyambogahezron)
 
-<br />
-<h3 align="centre">📖 Support:</h3>
-<br />
-If you think I deserve a little pick-me-up, why not treat me to a cup of coffee? 🥺
-<br />
-<p align="centre">
-  <a href="https://www.buymeacoffee.com/nyambogahezron">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
-<br />
-
 <h3>My GitHub contributions summary</h3>
 
 <p >
