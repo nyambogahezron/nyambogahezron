@@ -1,4 +1,20 @@
-👋 Hi, I’m **Nyamboga Hezron**<br><br>I’m a **Full-Stack Developer** and **Mobile Engineer** passionate about building scalable, user-friendly, and visually engaging applications. I specialize in creating seamless cross-platform experiences using **React Native, Next.js, and Node.js**, and I enjoy designing powerful backend systems with **Express, MongoDB, PostgreSQL, and Django**.<br><br>💡 What drives me is solving real problems through technology. I love bringing ideas to life that make an impact.<br><br>
+👋 Hi, I’m **Nyamboga Hezron**<br><br>I'm a passionate software developer creator who loves building modern, interactive, and user-friendly digital experiences. My focus is on creating apps that blend functionality, performance, and design.
+
+I enjoy working across the full stack, exploring Golang for backend development, TypeScript for scalable projects, and modern frameworks like Expo, Framer Motion, and Next.js for sleek frontends.
+
+My work philosophy is simple: build meaningful, marketable, and efficient solutions that make technology feel intuitive and powerful.
+
+🚀 What I’m currently working on:
+
+Developing a project management app with smart collaboration features
+
+Building a React Native document reader for PDFs and DOCX files
+
+Expanding my expertise in Golang for API and web development
+
+Designing a personal portfolio that showcases my work with animations and real-time interactivity
+
+💡 I’m always open to connecting with other tech enthusiasts, collaborators, and innovators who share a love for building great digital products..<br><br>
 
 
 ## 🌐 Socials:
