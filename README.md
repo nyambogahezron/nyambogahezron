@@ -56,19 +56,4 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 
-# 📊 GitHub Stats:
-<p >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyambogahezron&layout=compact&hide_border=true&langs_count=12&theme=dark" alt="nyambogahezron" />
-</p>
-
-<br />
-
-<p >
-  <img src="https://github-readme-stats.vercel.app/api?username=nyambogahezron&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark" alt="nyambogahezron" />
-</p>
-
-<br />
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyambogahezron&theme=dark&hide_border=true" alt="nyambogahezron" />
-</p>
 
