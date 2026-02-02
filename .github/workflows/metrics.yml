@@ -1,11 +1,8 @@
 name: Metrics
 on:
-  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run on each push on the main branch
-  push: {branches: ["master", "main"]}
+  push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -22,7 +19,7 @@ jobs:
           #  - read:user     (for user related metrics)
           #  - read:packages (for some packages related metrics)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: nyambogahezron
@@ -30,3 +27,42 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Nairobi
           filename: github-metrics.svg
+          
+          # Visuals
+          config_display: large
+          
+          # Plugins
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+          
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          plugin_lines: yes
+          
+          plugin_people: yes
+          plugin_people_types: followers, following
+          
+          plugin_reactions: yes
+          plugin_reactions_display: absolute
+          plugin_reactions_limit: 200
+          plugin_reactions_details: count, percentage
+          
+          plugin_notable: yes
+          plugin_notable_from: organization
+          
+          plugin_introduction: yes
+          plugin_introduction_title: yes
