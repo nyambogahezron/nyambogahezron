@@ -49,16 +49,28 @@ I'm a passionate software developer with expertise in building scalable web and 
 - 📫 How to reach me: [hezronnyamboga6@gmail.com](mailto:hezronnyamboga6@gmail.com)
 
 ---
+<br />
+<br />
 
-## 📊 GitHub Stats
+<h3>My GitHub contributions summary</h3>
 
-<div align="center">
-  <img src="https://github.com/nyambogahezron/nyambogahezron/blob/main/github-metrics.svg" alt="Nyamboga's GitHub Stats" />
-</div>
+<p >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyambogahezron&layout=compact&hide_border=true&langs_count=10&theme=dark" alt="nyambogahezron" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyambogahezron&layout=compact&hide_border=true&langs_count=12&theme=dark" alt="nyambogahezron" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=nyambogahezron&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<br />
+<br />
+
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=nyambogahezron&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark" alt="nyambogahezron" />
+</p>
+
+<br />
+<br />
+<p>
+  <img src="https://streak-stats.demolab.com/?user=nyambogahezron&theme=dark&hide_border=true" alt="nyambogahezron" />
+</p>
 
 ---
 
