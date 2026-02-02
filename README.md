@@ -36,7 +36,7 @@
   </a>
 </div>
 
-
+##
 
 **Software Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast**
 
@@ -53,8 +53,7 @@ I'm a passionate software developer with expertise in building scalable web and 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyambogahezron&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nyamboga's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyambogahezron&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github.com/nyambogahezron/nyambogahezron/blob/main/github-metrics.svg" alt="Nyamboga's GitHub Stats" />
 </div>
 
 <div align="center">
