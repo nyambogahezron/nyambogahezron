@@ -87,10 +87,6 @@ I'm a passionate software developer with expertise in building scalable web and 
 ![](https://nirzak-streak-stats.vercel.app/?user=nyambogahezron&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nyambogahezron&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyambogahezron&layout=compact&hide_border=true&langs_count=12&theme=dark" alt="nyambogahezron" />
-</p>
-
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nyambogahezron) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nyambogahezron) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/nyambogahezron) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nyambogahezron) 
