@@ -38,7 +38,7 @@
 
 ##
 
-**Software Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast**
+**Full Stack Engineer | Networking & IT Operations**
 
 I'm a passionate software developer with expertise in building scalable web and mobile applications. I specialize in backend systems, API design, and cloud infrastructure, while also enjoying the craft of intuitive user interfaces.
 
