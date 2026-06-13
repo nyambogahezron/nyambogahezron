@@ -28,20 +28,13 @@ I'm a passionate software developer with expertise in building scalable web and 
 
 ## 🛠️ Tech Stack
 
-<details open>
-<summary><b>Languages</b></summary>
-<br />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</details>
 
-<details open>
-<summary><b>Frameworks & Libraries</b></summary>
-<br />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -49,30 +42,21 @@ I'm a passionate software developer with expertise in building scalable web and 
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</details>
 
-<details open>
-<summary><b>Databases & Caching</b></summary>
-<br />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</details>
 
-<details open>
-<summary><b>Cloud & DevOps</b></summary>
-<br />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/GitLab%20CI-181717?style=for-the-badge&logo=gitlab&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-</details>
 
----
+<br/>
 
 ## 📊 GitHub Analytics
 
@@ -85,11 +69,6 @@ I'm a passionate software developer with expertise in building scalable web and 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyambogahezron&layout=compact&theme=radical&hide_border=true&langs_count=8" width="40%" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nyambogahezron&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" width="84%" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 📈 Activity
 
@@ -97,13 +76,6 @@ I'm a passionate software developer with expertise in building scalable web and 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyambogahezron&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nyambogahezron/nyambogahezron/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nyambogahezron/nyambogahezron/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/nyambogahezron/nyambogahezron/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
 
 ---
 
