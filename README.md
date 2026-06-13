@@ -110,5 +110,5 @@ I'm a passionate software developer with expertise in building scalable web and 
 <p align="center">
   <i>Building the future, one commit at a time.</i>
   <br />
-  <a href="https://nyambogahezron.com">nyambogahezron.dev</a>
+  <a href="https://nyambogahezron.dev">nyambogahezron.dev</a>
 </p>
