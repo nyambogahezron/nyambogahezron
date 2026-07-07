@@ -10,12 +10,6 @@
   <a href="https://nyambogahezron.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nyambogahezron&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-
-
 **Full Stack Engineer | Networking & IT Operations**
 
 I'm a passionate software developer with expertise in building scalable web and mobile applications. I specialize in backend systems, API design, and cloud infrastructure, while also enjoying the craft of intuitive user interfaces.
